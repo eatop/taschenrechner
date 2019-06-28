@@ -1,0 +1,20 @@
+{
+  "name": "kaans-taschenrechner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --watch",
+    "start": "serve ./public/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^3.3.30",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "serve": "^11.0.2",
+    "typescript": "^3.5.2"
+  }
+}
